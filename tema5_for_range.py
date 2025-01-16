@@ -2,7 +2,7 @@
 For en Python
 """
 
-#Creación de Lista
+#Creación de Listas
 print(list(range(10)))
 print(list(range(1,20)))
 print(list(range(0,20,2)))

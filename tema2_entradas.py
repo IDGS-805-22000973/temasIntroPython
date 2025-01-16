@@ -1,4 +1,4 @@
-print("Dame dos numeros;")
+print("Dame dos numeros")
 num1=input('Num1')
 num2=input('Num2')
 sima = int (num1)+int(num2)

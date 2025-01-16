@@ -1,6 +1,6 @@
 num1=2
 num2=3.5
-nombre="Mario"
+nombre="Mari"
 print(num1)
 print(num2)
 n1="7"

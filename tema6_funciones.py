@@ -9,7 +9,7 @@ def funcion1():
     
 
 def funcion2():
-    print("Hola sou funcion 2")
+    print("Hola soy funcion 2")
 
 
 def run():
