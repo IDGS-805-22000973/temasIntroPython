@@ -49,17 +49,31 @@ print(lista1)
 print("Ingresa el tamaño del arreglo")
 i=0
 tamañoA=int (input(""))
-
 lista6=[]
-listaImpar[]
-listaPar[]
+listaPar=[]
+listaImpar=[]
+a=0
+
 for i in range(tamañoA):
     valor=int(input("Ingresa los valores del arreglo con tamaño {}: ".format(tamañoA)))
     lista6.append(valor)
 
+for a in range(len(lista6)):
+    if lista6[a] % 2 == 0 :
+        listaPar.append(lista6[a])
+
+    else:
+        listaImpar.append(lista6[a])
+
+
+print("Valores en el arreglo {}".format(lista6))
+print("Valores impares {}".format(listaImpar))
+print("Valores pares  {}".format(listaPar))
+
+
 
 #Ordenar los valores de un arreglo
-
+"""
 lista.sort()
 print(lista1)
 lista1.reverse()
@@ -70,3 +84,4 @@ print(lista1)
 
 lista1.clear()
 print(lista1)
+"""

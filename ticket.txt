@@ -1,0 +1,3 @@
+Compras realizadas:
+Nombre: juan, Total: $91.8
+Total Final de todas las compras: $91.8

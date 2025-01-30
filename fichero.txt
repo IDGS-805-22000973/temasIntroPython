@@ -1,2 +1,3 @@
 Una lista con texto
  otra lista de texto
+ Esto es otra cadena\Esto es otra cadena
